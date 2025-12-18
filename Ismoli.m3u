@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ TURK HABER █ ▆ ▅ ▃" tvg-logo="https://granada.choval.xyz/tr/haber/0turkishflag.png" group-title="TR ➾ HABER",▃ ▅ ▆ █ TURK HABER █ ▆ ▅ ▃
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER HD" tvg-logo="https://granada.choval.xyz/tr/haber/tgrthaberhd.png" group-title="TR ➾ HABER",TR: TGRT HABER HD
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD" tvg-logo="https://granada.choval.xyz/tr/haber/cnnturkhd.png" group-title="TR ➾ HABER",TR: CNN TURK HD
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=oJMiU6EbpMarjY8tFmKZAA&e=1766078417
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABERTURK HD" tvg-logo="https://granada.choval.xyz/tr/haber/haberturkhd.png" group-title="TR ➾ HABER",TR: HABERTURK HD
+https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=806v13onkdoe&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV HD" tvg-logo="https://granada.choval.xyz/tr/haber/ntvhd.png" group-title="TR ➾ HABER",TR: NTV HD
+https://www.youtube.com/watch?v=pqq5c6k70kk
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ TURK ULUSAL █ ▆ ▅ ▃" tvg-logo="https://granada.choval.xyz/tr/ulusal/0verapanel.png" group-title="TR ➾ ULUSAL",▃ ▅ ▆ █ TURK ULUSAL █ ▆ ▅ ▃
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="https://granada.choval.xyz/tr/ulusal/kanaldhd.png" group-title="TR ➾ ULUSAL",TR: KANAL D HD
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=806u7r8xstez&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="https://granada.choval.xyz/tr/ulusal/showtvhd.png" group-title="TR ➾ ULUSAL",TR: SHOW TV HD
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=806w4qn54hf6&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="https://granada.choval.xyz/tr/ulusal/startvhd.png" group-title="TR ➾ ULUSAL",TR: STAR TV HD
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=806x7wpx2sm8&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="https://granada.choval.xyz/tr/ulusal/atvhd.png" group-title="TR ➾ ULUSAL",TR: ATV HD
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=fhtcWAndvb9BAuk37UsbmA&e=1766120170
+#EXTINF:-1 tvg-id="now.tr" tvg-name="TR: NOW TV HD" tvg-logo="https://granada.choval.xyz/tr/ulusal/nowhd.png" group-title="TR ➾ ULUSAL",TR: NOW TV HD
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1766132592&st=lNjT3oybBSDlJlx70nOksA
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD" tvg-logo="https://granada.choval.xyz/tr/ulusal/beyaztvhd.png" group-title="TR ➾ ULUSAL",TR: BEYAZ TV HD
+https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?&sid=80athfv2692e&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
